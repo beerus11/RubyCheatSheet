@@ -2,12 +2,18 @@ Ruby CheatSheet!
 ===================
 
 # Table of Contents
-1. [Strings](#strings)
+1. [Strings](#Strings)
 2. [Arrays](#arrays)
 3. [Loops](#loops)
+4. [Methods](#methods)
+5. [Class](#class)
+6. [Exception Handling](#exception)
+7. [File Handling](#file)
+8. [MultiTHreading](#thread)
+9. [Web Programming](#web)
+10. [Miscellaneous](#misc)
 
-
-##strings
+##Strings
 ```
 #Expression Substitution
 x,y,z=12,36,72
