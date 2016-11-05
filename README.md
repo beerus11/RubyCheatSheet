@@ -1,6 +1,7 @@
 Ruby CheatSheet!
 ===================
 
+```
 Strings
 -------------
 #Expression Substitution
@@ -52,3 +53,5 @@ puts full_name.split("a")
 
 #Reverse String
 puts full_name.reverse
+
+```
