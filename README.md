@@ -2,7 +2,7 @@ Ruby CheatSheet!
 ===================
 
 # Table of Contents
-1. [Strings](#Strings)
+1. [Strings](#string)
 2. [Arrays](#arrays)
 3. [Loops](#loops)
 4. [Methods](#methods)
@@ -13,7 +13,7 @@ Ruby CheatSheet!
 9. [Web Programming](#web)
 10. [Miscellaneous](#misc)
 
-##Strings
+##Strings <a name="string"></a>
 ```
 #Expression Substitution
 x,y,z=12,36,72
