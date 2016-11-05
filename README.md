@@ -9,7 +9,7 @@ Ruby CheatSheet!
 5. [Class](#class)
 6. [Exception Handling](#exception)
 7. [File Handling](#file)
-8. [MultiTHreading](#thread)
+8. [MultiThreading](#thread)
 9. [Web Programming](#web)
 10. [Miscellaneous](#misc)
 
