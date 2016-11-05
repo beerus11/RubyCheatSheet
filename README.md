@@ -1,9 +1,14 @@
 Ruby CheatSheet!
 ===================
 
+# Table of Contents
+1. [Strings](#strings)
+2. [Arrays](#arrays)
+3. [Loops](#loops)
+
+
+##strings
 ```
-Strings
--------------
 #Expression Substitution
 x,y,z=12,36,72
 puts "The value of x is  #{x}."
